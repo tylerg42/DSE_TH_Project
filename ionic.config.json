@@ -1,0 +1,8 @@
+{
+  "name": "DSE_Demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c6fe8f33"
+}
