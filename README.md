@@ -7,4 +7,4 @@
 Note: Make sure you have the right credentials to access the Ionic dashboard. 
 
 
-Contact the *likhith@ionic.io* for any questions or if you need any help. 
+Contact the *likhith@ionic.io* for any questions or if you need any help. All the best! 
