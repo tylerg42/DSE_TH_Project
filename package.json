@@ -6,7 +6,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "postinstall": "./appflow_build.sh",
+    "postinstall": "chmod +x ./appflow_build.sh && ./appflow_build.sh",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
